@@ -67,4 +67,4 @@ rabbitmq-server-*.tar.xz
 rabbitmq-server-*.zip
 
 traces*
-callgrand*
+callgrind*
